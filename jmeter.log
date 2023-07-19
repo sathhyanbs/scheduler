@@ -1,0 +1,76 @@
+2023-07-19 11:10:01,182 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-07-19 11:10:01,182 INFO o.a.j.JMeter: Loading user properties from: C:\Sathhyan\AIW\apache-jmeter-5.5\bin\user.properties
+2023-07-19 11:10:01,182 INFO o.a.j.JMeter: Loading system properties from: C:\Sathhyan\AIW\apache-jmeter-5.5\bin\system.properties
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: Version 5.5
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: java.version=1.8.0_361
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: os.name=Windows 10
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: os.arch=x86
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: os.version=10.0
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: java.awt.headless=true
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: Available Processors =4
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: JMeterHome=C:\Sathhyan\AIW\apache-jmeter-5.5
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: user.dir  =C:\Sathhyan\AIW\selenium\AMD_live_channel_sheduler
+2023-07-19 11:10:01,198 INFO o.a.j.JMeter: PWD       =C:\Sathhyan\AIW\selenium\AMD_live_channel_sheduler
+2023-07-19 11:10:01,214 INFO o.a.j.JMeter: IP: 192.168.226.188 Name: 3edgePS013 FullName: 3edgePS013.quickplay.local
+2023-07-19 11:10:01,229 INFO o.a.j.s.FileServer: Default base='C:\Sathhyan\AIW\selenium\AMD_live_channel_sheduler'
+2023-07-19 11:10:01,229 INFO o.a.j.s.FileServer: Set new base='C:\Sathhyan\AIW\selenium\AMD_live_channel_sheduler\AMD'
+2023-07-19 11:10:01,354 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-07-19 11:10:01,370 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-07-19 11:10:01,385 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-07-19 11:10:01,385 INFO o.a.j.s.SaveService: Loading file: AMD\AMD.jmx
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-07-19 11:10:01,464 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-07-19 11:10:01,809 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = 3edgePS013
+2023-07-19 11:10:01,829 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-07-19 11:10:01,851 INFO o.a.j.JMeter: Creating summariser <summary>
+2023-07-19 11:10:01,875 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-19 11:10:01,875 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-19 11:10:01,875 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-19 11:10:01,881 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-07-19 11:10:01,881 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-07-19 11:10:02,174 INFO c.b.c.RandomCSVReader: Start reading the file: C:\Sathhyan\AIW\selenium\AMD_live_channel_sheduler\AMD\amd_channels_17_07.csv
+2023-07-19 11:10:02,180 INFO c.b.c.RandomCSVReader: Reading finished. Found 1 records in your csv file
+2023-07-19 11:10:02,202 INFO o.a.j.JMeter: Running test (1689765002202)
+2023-07-19 11:10:02,249 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : AMDPlaybackValidation
+2023-07-19 11:10:02,249 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AMDPlaybackValidation.
+2023-07-19 11:10:02,249 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-19 11:10:02,249 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-19 11:10:02,249 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-19 11:10:02,249 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-19 11:10:02,265 INFO o.a.j.t.JMeterThread: Thread started: AMDPlaybackValidation 1-1
+2023-07-19 11:10:02,265 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-07-19 11:10:02,265 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-07-19 11:10:02,265 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-07-19 11:10:02,265 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-07-19 11:10:02,719 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2023-07-19 11:10:02,719 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2023-07-19 11:10:02,719 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2023-07-19 11:10:03,157 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2023-07-19 11:10:03,157 INFO o.a.j.u.SSLManager: KeyStore created OK
+2023-07-19 11:10:03,157 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2023-07-19 11:10:04,052 INFO o.a.j.r.Summariser: summary +      1 in 00:00:02 =    0.5/s Avg:  1678 Min:  1678 Max:  1678 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:10:30,762 INFO o.a.j.r.Summariser: summary +     11 in 00:00:27 =    0.4/s Avg:  2420 Min:     8 Max:  5762 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:10:30,762 INFO o.a.j.r.Summariser: summary =     12 in 00:00:29 =    0.4/s Avg:  2358 Min:     8 Max:  5762 Err:     0 (0.00%)
+2023-07-19 11:11:05,439 INFO o.a.j.r.Summariser: summary +      7 in 00:00:35 =    0.2/s Avg:  4952 Min:  2443 Max:  6126 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:11:05,439 INFO o.a.j.r.Summariser: summary =     19 in 00:01:03 =    0.3/s Avg:  3314 Min:     8 Max:  6126 Err:     0 (0.00%)
+2023-07-19 11:11:35,375 INFO o.a.j.r.Summariser: summary +      5 in 00:00:30 =    0.2/s Avg:  5985 Min:  2852 Max: 10343 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:11:35,375 INFO o.a.j.r.Summariser: summary =     24 in 00:01:33 =    0.3/s Avg:  3870 Min:     8 Max: 10343 Err:     0 (0.00%)
+2023-07-19 11:12:00,373 INFO o.a.j.r.Summariser: summary +      6 in 00:00:25 =    0.2/s Avg:  4162 Min:  2616 Max:  7246 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:12:00,374 INFO o.a.j.r.Summariser: summary =     30 in 00:01:58 =    0.3/s Avg:  3929 Min:     8 Max: 10343 Err:     0 (0.00%)
+2023-07-19 11:12:30,367 INFO o.a.j.r.Summariser: summary +     10 in 00:00:30 =    0.3/s Avg:  2999 Min:  2416 Max:  3955 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2023-07-19 11:12:30,367 INFO o.a.j.r.Summariser: summary =     40 in 00:02:28 =    0.3/s Avg:  3696 Min:     8 Max: 10343 Err:     0 (0.00%)
+2023-07-19 11:12:55,587 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread AMDPlaybackValidation 1-1, reason: org.apache.jorphan.util.JMeterStopThreadException: All records in the CSV file have been passed.
+2023-07-19 11:12:55,587 INFO o.a.j.t.JMeterThread: Thread finished: AMDPlaybackValidation 1-1
+2023-07-19 11:12:55,587 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-19 11:12:55,587 INFO o.a.j.r.Summariser: summary +      9 in 00:00:25 =    0.4/s Avg:  2801 Min:  2208 Max:  3946 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+2023-07-19 11:12:55,587 INFO o.a.j.r.Summariser: summary =     49 in 00:02:53 =    0.3/s Avg:  3532 Min:     8 Max: 10343 Err:     0 (0.00%)
